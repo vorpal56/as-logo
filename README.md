@@ -18,7 +18,7 @@ You can change the logo colours and size using [Photopea](https://www.photopea.c
 	│   └── colour ...
 	└── backgrounds
 	    ├── White
-		└── Slate Grey
+	└── Slate Grey
 
 1. Open the `logo.psd` file on Photopea or Photoshop
 2. Duplicate the `base` layer
